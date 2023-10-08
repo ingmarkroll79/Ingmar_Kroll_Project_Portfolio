@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./Images/profile.png" />
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/ingmar-kroll-982b06122/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
