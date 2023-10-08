@@ -7,6 +7,7 @@ This combined project of data preparation with SQL and visualization with Tablea
 
 [Please click here for the detailed project description and the result!](https://ingmarkroll79.github.io/SQL_project_internet_vs_depression/)
 
-
-
-   
+<div align = center>
+[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
+</div>
+[KBD]: https://ingmarkroll79.github.io/SQL_project_internet_vs_depression/   
