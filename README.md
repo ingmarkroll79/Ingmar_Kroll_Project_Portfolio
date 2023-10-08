@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ingmarkroll79/Ingmar_Kroll_Project_Portfolio/blob/main/Images/profile.png" />
+  <img src="./Images/profile.png" />
   <br>
   <a href="https://www.linkedin.com/in/ingmar-kroll-982b06122/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
