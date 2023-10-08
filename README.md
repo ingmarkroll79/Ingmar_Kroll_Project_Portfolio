@@ -1,14 +1,13 @@
 <p align="center">
   <img src=https://github.com/ingmarkroll79/Ingmar_Kroll_Project_Portfolio/assets/146067161/a1e845d5-9bba-4c7d-8f5f-577512dbf523 />
-        <br>Ingmar Kroll<br>
+  <br>
   <a href="https://www.linkedin.com/in/ingmar-kroll-982b06122/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/ingmarkroll79" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
   </a>
-      <br>  
-        _______________________________________________________
+      <br><br>
 </p>
 
 **October 2023**
